@@ -76,10 +76,6 @@ function writePassword() {
   let passwordText = document.querySelector("#password");
 
   passwordText.value = password.join("");
-  // let playAgain = confirm("Do you want to generate another password?");
-  // if (playAgain === true) {
-  //   generatePassword();
-  // }
 }
 
 // Add event listener to generate button
