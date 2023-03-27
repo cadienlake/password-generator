@@ -1,6 +1,6 @@
 # CJames-Portfolio
 
-> Live demo [_here_](https://cadienlake.github.io/password=generator/).
+> Live demo [_here_](https://cadienlake.github.io/password-generator/).
 
 ## Table of Contents
 
